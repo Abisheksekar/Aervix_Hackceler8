@@ -1,1 +1,1 @@
-# Drowsy-Sentry-System
+Drowsy Sentry System is a smart in-vehicle safety device that detects driver drowsiness and alcohol levels in real time. It blocks vehicle ignition if alcohol is detected, issues alerts to drivers, owners, and nearby vehicles, and automatically calls emergency contacts in case of accidents. With night vision cameras, SOS communication, and GSM connectivity, it offers an affordable, compact, and easy-to-install solution for enhancing road safety across private, public, and commercial vehicles
